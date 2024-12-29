@@ -7,3 +7,5 @@
 <img src="https://github.com/Willy-Kuo/DLG/blob/main/img/1.png" height="500">
 <p><b>Step2</b></h1>
 <p>&nbsp;&nbsp;到google drive新增新的資料夾，點選共用</p>
+<img src="https://github.com/Willy-Kuo/DLG/blob/main/img/2.png" height="300">
+<p>&nbsp;&nbsp;更改權限</p>
