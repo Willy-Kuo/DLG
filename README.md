@@ -22,4 +22,8 @@
 <p>複數下載:</p>
 <p>&nbsp;&nbsp;開啟記事本</p>
 <p>&nbsp;&nbsp;格式:[連結][ENTER][連結][ENTER]......</p>
+<p>&nbsp;&nbsp;範例</p>
+<img src="https://github.com/Willy-Kuo/DLG/blob/main/img/7.png" height="300">
 <p>&nbsp;&nbsp;格式:[連結][空格][自訂檔案名稱][ENTER][連結][空格][自訂檔案名稱][ENTER]......</p>
+<p>&nbsp;&nbsp;範例</p>
+<img src="https://github.com/Willy-Kuo/DLG/blob/main/img/8.png" height="300">
