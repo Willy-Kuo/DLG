@@ -27,3 +27,5 @@
 <p>&nbsp;&nbsp;格式:[連結][空格][自訂檔案名稱][ENTER][連結][空格][自訂檔案名稱][ENTER]......</p>
 <p>&nbsp;&nbsp;範例</p>
 <img src="https://github.com/Willy-Kuo/DLG/blob/main/img/8.png" height="300">
+<p>&nbsp;&nbsp;添加檔案，按下download</p>
+<img src="https://github.com/Willy-Kuo/DLG/blob/main/img/9.png" height="300">
