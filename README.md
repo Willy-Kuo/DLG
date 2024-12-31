@@ -1,6 +1,6 @@
 # DLG
 ## 安裝
-### 推薦 <a href="https://drive.google.com/drive/folders/1c7kjDXNAJ85FNHpUHMOIWkc3tVohRK8D?usp=sharing">version 0.1.1</a>
+### 推薦 <a href="https://drive.google.com/drive/folders/1yM6JkbxKU2WpoRj6oAvvOCKlKWlnBGeB">version 0.1.1</a>
 ### 使用方法
 <p><b>Step1</b></p>
 <p>&nbsp;&nbsp;進入設定</p>
