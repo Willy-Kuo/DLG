@@ -29,3 +29,5 @@
 <img src="https://github.com/Willy-Kuo/DLG/blob/main/img/8.png" height="300">
 <p>&nbsp;&nbsp;添加檔案，按下download</p>
 <img src="https://github.com/Willy-Kuo/DLG/blob/main/img/9.png" height="300">
+<p><b>完成</b></p>
+<img src="https://github.com/Willy-Kuo/DLG/blob/main/img/10.png" height="300">
