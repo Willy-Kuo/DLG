@@ -2,6 +2,9 @@
 ## 安裝
 ### 推薦 <a href="https://drive.google.com/file/d/1HdqRZfoxCHQgZi9LcWSQSitr61BxHTql/view?usp=sharing">version 0.1.2</a>
 ### 使用方法
+<p><b>OAuth</b></p>
+<p>&nbsp;&nbsp;version >= 0.2.0 需要OAuth金鑰</p>
+<a href="https://steam.oxxostudio.tw/category/python/example/google-drive.html">OAuth申請步驟</a>
 <p><b>Step1</b></p>
 <p>&nbsp;&nbsp;進入設定</p>
 <img src="https://github.com/Willy-Kuo/DLG/blob/main/img/1.png" height="300">
