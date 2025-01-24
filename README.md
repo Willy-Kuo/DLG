@@ -1,6 +1,6 @@
 # DLG
 ## 安裝
-### 推薦 <a href="">version 0.2.1</a>
+### 推薦 <a href="https://github.com/Willy-Kuo/DLG/blob/main/exe/v0.2.1/DLG.exe">version 0.2.1</a>
 ### 使用方法
 <p><b>OAuth</b></p>
 <p>&nbsp;&nbsp;version >= 0.2.0 需要OAuth金鑰</p>
